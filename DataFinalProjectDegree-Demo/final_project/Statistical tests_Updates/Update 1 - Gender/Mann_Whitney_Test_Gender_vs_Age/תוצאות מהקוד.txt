@@ -1,0 +1,13 @@
+
+Mann-Whitney U Test Results for Gender vs Age:
+
+U-Statistic: 1857543.50
+P-Value: 0.000
+
+Conclusion:
+- If p-value < 0.05, there is a significant difference between male and female ages at the time of hospitalization.
+- If p-value >= 0.05, there is no significant difference between the groups.
+
+**Specific Findings:**
+- The mean age for **Males** at the time of hospitalization: **39.2**
+- The mean age for **Females** at the time of hospitalization: **42.7**

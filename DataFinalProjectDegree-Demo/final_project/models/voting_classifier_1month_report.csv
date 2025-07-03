@@ -1,0 +1,7 @@
+Class,Precision,Recall,F1-Score,Support
+Not Readmitted,0.88,0.86,0.87,1318
+Readmitted,0.86,0.88,0.87,1257
+macro avg,0.87,0.87,0.87,2575
+weighted avg,0.87,0.87,0.87,2575
+ROC AUC,0.94,,,
+Avg Precision (AP),0.95,,,
