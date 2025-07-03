@@ -1,2 +1,0 @@
-# DataFinalProjectDegree
-פרוייקט אשפוז חוזר
